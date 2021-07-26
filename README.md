@@ -2,7 +2,9 @@
 
 ### 📊 Stats
 
-![Sangyun's github stats](https://github-readme-stats.vercel.app/api?username=syndersonLEE&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sy0180)](https://solved.ac/sy0180/)
+![Sangyun's github stats](https://github-readme-stats.vercel.app/api?username=syndersonLEE&show_icons=true)
+<br/>
+![sangyun's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sy0180)
 
 
 <!--
