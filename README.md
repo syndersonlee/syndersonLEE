@@ -4,11 +4,11 @@
 
 ![Sangyun's github stats](https://github-readme-stats.vercel.app/api?username=syndersonLEE&show_icons=true)
 
+![](https://raw.githubusercontent.com/syndersonLEE/syndersonLEE/output/github-contribution-grid-snake.svg)
 
 <!--
 **syndersonLEE/syndersonLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://raw.githubusercontent.com/syndersonLEE/syndersonLEE/output/github-contribution-grid-snake.svg)
 
 Here are some ideas to get you started:
 
