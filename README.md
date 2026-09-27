@@ -7,7 +7,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,gradle,mysql,redis,docker,aws,js,rust,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,gradle,mysql,redis,docker,aws,js,git" alt="Tech Stack" />
 </p>
 
 ### 📊 Stats
