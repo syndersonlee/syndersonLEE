@@ -30,6 +30,13 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true
           path: dist/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: generate github-top-langs.svg
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          path: dist/github-top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push svg files to the output branch
